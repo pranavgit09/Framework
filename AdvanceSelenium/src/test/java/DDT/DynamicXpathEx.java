@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class DynamicXpathEx {
 
 	//pulling back
+	//push two
 	public static void main(String[] args) throws Throwable {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
